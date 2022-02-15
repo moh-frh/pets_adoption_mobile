@@ -76,7 +76,6 @@ class _MenuScreenState extends State<MenuScreen> {
               child: Row(
                 children: [
                   CircleAvatar(
-                    backgroundColor: Colors.amber,
                     radius: 24,
                     child: Image(
                       image: AssetImage('images/me.jpg'),
